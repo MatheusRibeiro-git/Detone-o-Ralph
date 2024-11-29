@@ -18,10 +18,16 @@ Este é um jogo simples inspirado no filme "Detona Ralph", onde o jogador precis
 **index.html:** Arquivo principal da página HTML.
 
 **src:**
-  1.**styles:** Contém os arquivos CSS para estilização (reset.css e main.css).
-  2.**scripts:** Contém o arquivo JavaScript (engine.js) com a lógica do jogo.
-  3.**images:** Armazena as imagens utilizadas no jogo.
-  4.**audios:** Armazena os arquivos de áudio utilizados no jogo.
+
+  1. **styles:** Contém os arquivos CSS para estilização (reset.css e main.css).
+  2. **scripts:** Contém o arquivo JavaScript (engine.js) com a lógica do jogo.
+  3. **images:** Armazena as imagens utilizadas no jogo.
+  4. **audios:** Armazena os arquivos de áudio utilizados no jogo.
+     
+
+
+
+
 
 **Como Executar:**
 
